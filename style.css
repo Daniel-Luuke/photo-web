@@ -1,6 +1,6 @@
 header{
     image-rendering: auto;
-    background-image:url(camera2.webp);
+    background-image:url(camera3.jpg);
     background-size: cover;
     height:550px;
     text-align: center;
@@ -10,7 +10,7 @@ header{
 header a{
     text-decoration: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(97, 6, 6);
+    color: rgb(255, 255, 255);
 }
 header a p{
     font-weight: 800;
