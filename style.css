@@ -40,3 +40,10 @@ section{
 body{
     background-color: black;
 }
+.photos{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    padding: 20px;
+    justify-self: center;
+}
