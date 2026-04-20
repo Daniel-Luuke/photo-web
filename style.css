@@ -1,0 +1,7 @@
+header{
+    image-rendering: auto;
+    background-image:url(camera2.webp);
+    background-size: cover;
+    height:550px;
+    text-align: center;
+}
