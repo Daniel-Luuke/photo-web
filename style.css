@@ -4,4 +4,39 @@ header{
     background-size: cover;
     height:550px;
     text-align: center;
+    padding :20px 0;
+    margin: 0;
+}
+header a{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header a p{
+    font-weight: 800;
+}
+nav{
+    background-color: bisque;
+    text-align: center;
+    padding :10px;
+}
+nav a{
+    text-decoration: none;
+    margin: 0 40px;
+    font-weight: 700;
+    
+}
+nav a:hover{
+    color: brown;
+    text-decoration: overline;
+}
+section{
+     background-color: #cfc8c8;
+  border-radius: 8xp;
+  margin: 10px 150px auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 10px 10px;
+}
+body{
+    background-color: black;
 }
