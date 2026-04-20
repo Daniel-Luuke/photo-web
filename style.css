@@ -10,6 +10,7 @@ header{
 header a{
     text-decoration: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(97, 6, 6);
 }
 header a p{
     font-weight: 800;
@@ -23,11 +24,12 @@ nav a{
     text-decoration: none;
     margin: 0 40px;
     font-weight: 700;
+    color: red;
     
 }
 nav a:hover{
     color: brown;
-    text-decoration: overline;
+    text-decoration: underline;
 }
 section{
      background-color: #cfc8c8;
@@ -51,4 +53,11 @@ body{
     height: 230px;
     width:450px;
     border-radius: 5%;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.photos img :hover{
+    transition: 0.5s;
+    animation: ease;
+    transform: scale(1.07);
+
 }
