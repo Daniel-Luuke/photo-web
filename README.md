@@ -12,7 +12,9 @@ Description - This is  awebpage related to photography work written in html and 
    3. The contact page
 
    footer - The footer contains the copyright holder of the images as wwell as an image of the website designer.
-   
+  
+  navigation bar - contains hyperlinks to the biography, pictures and contact section.
+  
 instructions - click the link provided on the github page to acces the website. Scroll down to view the photos.
 
 View my Project - https://github.com/Daniel-Luuke/photo-web
