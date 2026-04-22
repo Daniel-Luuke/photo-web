@@ -1,4 +1,4 @@
-Project Name - Photography Website
+Project Name - Photography Website (Photo Web)
 
 Author - Daniel Mungaithi
 
