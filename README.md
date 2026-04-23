@@ -1,6 +1,6 @@
 Project Name - Photography Website (Photo Web)
 
-Author - Daniel Mungaithi
+Author - Daniel Mungaith
 
 Description - This is  awebpage related to photography work written in html and css coding language.
 
